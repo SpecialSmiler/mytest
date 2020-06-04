@@ -13,7 +13,7 @@ public class CopyJavaFile extends JPanel implements ActionListener,FilenameFilte
     File dstDir;    //目标目录
     int count=0;
     String myLogo ="/***************************************/\n" +
-                 "/*Author:  Wu ZhanXin  */\n" +
+                 "/*Author:  SpecialSmiler  */\n" +
                  "/*Date:    2020/5/31   */\n" +
                  "/***************************************/\n";
 
